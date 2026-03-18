@@ -1,3 +1,7 @@
+## LINK YOUTOBE
+
+## LINK COLAB
+
 # 🐾 Hệ Thống Phân Loại Giống Chó & Mèo
 
 Ứng dụng web dùng AI để phân loại và nhận diện giống của chó và mèo từ hình ảnh.
