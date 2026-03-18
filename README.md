@@ -1,6 +1,7 @@
 ## LINK YOUTOBE
 https://youtu.be/oXDV8fZZQpI?si=Hofqa1mpMllhkklc
 ## LINK COLAB
+https://colab.research.google.com/drive/12hwYXe-maoacMNnhU5TAOJN3fuTMzQ24?authuser=2
 
 # 🐾 Hệ Thống Phân Loại Giống Chó & Mèo
 
